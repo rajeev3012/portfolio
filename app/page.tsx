@@ -7,11 +7,12 @@ export default function Page() {
         My Portfolio
       </h1>
       <p className="mb-4">
-        {`I'm a Vim enthusiast and tab advocate, finding unmatched efficiency in
-        Vim's keystroke commands and tabs' flexibility for personal viewing
-        preferences. This extends to my support for static typing, where its
-        early error detection ensures cleaner code, and my preference for dark
-        mode, which eases long coding sessions by reducing eye strain.`}
+        {`Dynamic and result-oriented DevOps Engineer with 4+ years of experience in designing, implementing,
+          and maintaining scalable infrastructure solutions, complemented by a strong technical support
+          background. Proficient in CI/CD implementation, cloud platforms, and containerization using Docker
+          and Kubernetes. Skilled in automating deployments, monitoring, and optimizing infrastructure. Adept
+          at scripting and automation with tools like Jenkins, Terraform and Ansible, adhering to delivery best
+          practices.`}
       </p>
       <div className="my-8">
         <BlogPosts />
